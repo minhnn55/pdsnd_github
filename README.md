@@ -4,15 +4,27 @@
 This project and the README file were created on 20th August 2023.
 
 ### Tittle of the project
+<<<<<<< HEAD
 Git Play Udacity 2023
+=======
+Git play 2023
+>>>>>>> documentation
 
 ### Description
 This project is a hands-on practice of Git and GitHub functionalities. It simulates a real-world workflow where changes are made, committed, and pushed to a remote repository. The project also emphasizes the importance of documentation, refactoring, and effective version control using branching and merging.
 
 ### Files Used
 - `bikeshare.py`: Main script that contains the bike-sharing system's functionalities.
+<<<<<<< HEAD
 - `data.csv`: Data file containing bike-sharing data for city.
 
 ### Credits
 - [Udacity's Git and GitHub course](https://www.udacity.com/course/version-control-with-git--ud123): This course provided the foundational knowledge for this project.
 - [Git documentation](https://git-scm.com/doc): Extensive documentation on Git commands and functionalities.
+=======
+- `data.csv`: Data file containing bike-sharing data for city 1.
+
+### Credits
+- [Udacity's Git and GitHub course](https://www.udacity.com/course/version-control-with-git--ud123): This course provided the foundational knowledge for this project.
+- [Git documentation](https://git-scm.com/doc): Extensive documentation on Git commands and functionalities.
+>>>>>>> documentation
