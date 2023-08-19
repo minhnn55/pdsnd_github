@@ -3,8 +3,8 @@
 ### 20/08/2023
 This project and the README file were created on 20th August 2023.
 
-### Git Play
-This is the title of the project.
+### Tittle of the project
+Git Play Udacity 2023
 
 ### Description
 This project is a hands-on practice of Git and GitHub functionalities. It simulates a real-world workflow where changes are made, committed, and pushed to a remote repository. The project also emphasizes the importance of documentation, refactoring, and effective version control using branching and merging.
